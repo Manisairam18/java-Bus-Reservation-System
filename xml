@@ -1,0 +1,6 @@
+<!-- Add this to your pom.xml if using Maven -->
+<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>8.0.26</version>
+</dependency>
